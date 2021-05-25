@@ -1,6 +1,6 @@
  pip install scrapy
 
-# 1. news - парсер для "Новостей региона" по ссылке https://гибдд.рф/news/region
+# 1. news - парсер для "Новости региона" по ссылке https://гибдд.рф/news/region
  запускается парсер коммандой scrapy crawl regions -o regions.json
  
  
